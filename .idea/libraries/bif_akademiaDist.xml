@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bif-akademiaDist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/distribution/bif-akademiaDist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Configuration
+  SYSTEM "xconf.dtd">
+<Configuration xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Property name="academy" overridable="true"
+	targetFile="codebase/wt.properties"
+	value="Windchill Academy"/>
+		
+		<Property name="wt.services.service.10200" overridable="true"
+	targetFile="codebase/wt.properties"
+	value="com.ttpsc.listener.FirstListenerService/com.ttpsc.listener.StandardFirstListenerService"/>
+	
+		<Property name="wt.services.service.40000" overridable="true"
+	targetFile="codebase/wt.properties"
+	value="com.ttpsc.listener.CheckInService/com.ttpsc.listener.StandardCheckInService"/>
+	
+	<Property name="wt.services.service.40001" overridable="true"
+	targetFile="codebase/wt.properties"
+	value="com.ttpsc.listener.cnStateChange.ChangeStateListenerService/com.ttpsc.listener.cnStateChange.StandardChangeServiceListenerService"/>
+		
+	
+</Configuration>
+

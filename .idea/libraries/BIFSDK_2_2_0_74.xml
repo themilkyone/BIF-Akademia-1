@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BIFSDK-2.2.0.74">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/srclib/BIFSDK-2.2.0.74.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

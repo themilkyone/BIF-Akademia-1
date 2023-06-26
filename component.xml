@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<component name="BIF-AKADEMIA" organisation="Organization" description="BIF-AKADEMIA12" homepage="https://ssp.ptc.com/wiki/display/bif/BIF+Home" xmlns="http://ssp.ptc.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://ssp.ptc.com component.xsd">
+	<version major="3" minor="0" point="0" buildCode="1" />
+	<windchill release="11.2" dateCode="F000" installSequence="0" />	
+	
+	<install>				
+		<!-- Approval-Release types -->
+		<load file="TypeDefinitions/academy_part0" desc="academy_part0.xml" />
+		<load file="TypeDefinitions/academy_part1" desc="academy_part1.xml" />
+
+	</install>
+</component>
