@@ -2,8 +2,6 @@ package com.ttpsc.listener.cnStateChange;
 
 import java.io.Serializable;
 
-import com.ttpsc.listener.StandardCheckInService;
-
 import wt.change2.ChangeService2Event;
 import wt.fc.PersistenceManagerEvent;
 import wt.lifecycle.LifeCycleServiceEvent;

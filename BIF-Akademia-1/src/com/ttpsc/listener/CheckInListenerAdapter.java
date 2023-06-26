@@ -7,8 +7,6 @@ import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
 import com.ptc.windchill.bac.specfile.jaxb.LifeCycleTemplate;
-import com.ttpsc.link.LinkServiceHelper;
-import com.ttpsc.service.AcademyServiceHelper;
 import com.ttpsc.sql.SQLQueryServiceHelper;
 
 import wt.doc.WTDocument;

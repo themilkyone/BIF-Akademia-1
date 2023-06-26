@@ -10,12 +10,6 @@ import java.util.function.Consumer;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
-import com.ttpsc.change.ChangeServiceHelper;
-import com.ttpsc.link.LinkServiceHelper;
-import com.ttpsc.link.StandardLinkService;
-import com.ttpsc.listener.cnStateChange.ChangeStateListenerAdapter;
-import com.ttpsc.service.AcademyServiceHelper;
-import com.ttpsc.service.StandardAcademyService;
 import com.ttpsc.sql.SQLQueryServiceHelper;
 import com.ttpsc.workable.WorkableServiceHelper;
 

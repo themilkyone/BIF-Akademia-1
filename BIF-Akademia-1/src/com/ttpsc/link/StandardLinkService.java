@@ -1,7 +1,6 @@
 package com.ttpsc.link;
 
 import com.ttpsc.service.AcademyServiceHelper;
-import com.ttpsc.service.StandardAcademyService;
 import com.ttpsc.workable.WorkableServiceHelper;
 
 import wt.doc.WTDocument;

@@ -1,7 +1,5 @@
 package com.ttpsc.workable;
 
-import com.ttpsc.link.StandardLinkService;
-
 import wt.pom.PersistenceException;
 import wt.services.StandardManager;
 import wt.util.WTException;

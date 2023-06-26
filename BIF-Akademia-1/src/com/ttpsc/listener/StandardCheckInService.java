@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 import org.apache.log4j.Logger;
 
-import com.ttpsc.listener.template.StandardEventService;
-
 import wt.services.ManagerException;
 import wt.services.StandardManager;
 import wt.util.WTException;

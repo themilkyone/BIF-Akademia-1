@@ -6,7 +6,6 @@ import java.util.Optional;
 
 import com.ibm.icu.util.BytesTrie.Result;
 import com.ptc.core.meta.type.mgmt.server.impl.WTTypeDefinition;
-import com.ttpsc.service.StandardAcademyService;
 
 import wt.doc.WTDocument;
 import wt.fc.Persistable;
