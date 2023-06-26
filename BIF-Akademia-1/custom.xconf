@@ -3,8 +3,7 @@
   SYSTEM "xconf.dtd">
 <Configuration xmlns:xlink="http://www.w3.org/1999/xlink">
 	<Property name="academy" overridable="true"
-	targetFile="codebase/wt.properties"
-	value="Windchill Academy"/>
+	targetFile="codebase/wt.properties"/>
 		
 		<Property name="wt.services.service.10200" overridable="true"
 	targetFile="codebase/wt.properties"
